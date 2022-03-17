@@ -4,4 +4,4 @@
 Скриншот работы:
 
 
-![image](https://user-images.githubusercontent.com/68331365/158892879-868fa418-a38d-4f8b-b016-b45d136bf4c0.png)
+![image](https://user-images.githubusercontent.com/68331365/158894116-9999aaef-3daa-4d4c-8604-8a120aa9c932.png)
