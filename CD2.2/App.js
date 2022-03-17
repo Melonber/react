@@ -4,6 +4,9 @@ import { StyleSheet, Text, View, SafeAreaView } from 'react-native';
 export default function App() {
   return (
     <View style={{ flex: 1 }}>
+      <View style={{ flex: 1, bottom: 15, backgroundColor: 'white' }}>
+      <Text style={{textAlign: 'center', top: 66, fontSize:23, fontWeight:'bold'}}>5 книжных новинок октября</Text>
+    </View>
     <View style={{ flex: 2, backgroundColor: '#C0BEC4' }}>
       <Text style={{textAlign: 'center', top: 66, fontSize:23}}>"Кадиш.com" Натан Ингаланедер.{"\n"} Издательство "Книжники"</Text>
     </View>
