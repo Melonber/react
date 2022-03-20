@@ -1,3 +1,6 @@
+Доп скачивания: 
+npm install react-native-screens react-native-safe-area-context
+npm install @react-navigation/native @react-navigation/native-stack
 Структкра проекта: 
 
 ![image](https://user-images.githubusercontent.com/68331365/159175999-b95cc2b4-c714-4bd1-9436-d8cdb341b63e.png)
