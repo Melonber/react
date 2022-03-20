@@ -4,6 +4,7 @@
 
 В приложении 3 окна: Home, Details, Messages, между которыми можно переходит по кнопке:
 
-![image](https://user-images.githubusercontent.com/68331365/159176084-71de0f9a-21c9-4bd9-ba96-bf2a18cd515f.png)
-![image](https://user-images.githubusercontent.com/68331365/159176090-1a054174-8a6b-48cb-8b4a-6a85d6be1189.png)
-![image](https://user-images.githubusercontent.com/68331365/159176100-8b1db7dd-6730-4bb7-8204-90973dec292a.png)
+![image](https://user-images.githubusercontent.com/68331365/159179760-6135a537-9579-443b-8301-5582399b63ef.png)
+![image](https://user-images.githubusercontent.com/68331365/159179775-adb2a16f-2940-4282-aa1f-8bec47709259.png)
+![image](https://user-images.githubusercontent.com/68331365/159179784-324a8c80-9a6d-469e-b56e-4db1ee7cfad8.png)
+
