@@ -1,0 +1,42 @@
+import React from 'react';
+import {SafeAreaView, StyleSheet, View, Text} from 'react-native';
+import {name} from './Login'
+
+const SecondPage = ({navigation}) => {
+  return (
+    <SafeAreaView style={{flex: 1}}>
+      <View style={[styles.container,styles.padd]}>
+        
+        <Text style={styles.textStyle}>
+          Добро пожаловать ,{name} !
+        </Text>
+      </View>
+      
+    </SafeAreaView>
+  );
+};
+
+export default SecondPage;
+
+const styles = StyleSheet.create({
+  container: {
+    flex: 1,
+    alignItems: 'center',
+    padding: 20,
+  },
+  heading: {
+    fontSize: 25,
+    textAlign: 'center',
+    marginVertical: 10,
+  },
+  padd: {
+    bottom: -100,
+    
+
+  },
+  textStyle: {
+    textAlign: 'center',
+    fontSize: 30,
+    marginVertical: 10,
+  },
+});
